@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:54:47 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Tue Aug  7 17:34:17 2018
+# Process ID: 25635
+# Current directory: /home/prateek/vivado/led_vcu/led_vcu.runs/impl_1
+# Command line: vivado -log led.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source led.tcl -notrace
+# Log file: /home/prateek/vivado/led_vcu/led_vcu.runs/impl_1/led.vdi
+# Journal file: /home/prateek/vivado/led_vcu/led_vcu.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source led.tcl -notrace
